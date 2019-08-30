@@ -1,2 +1,3 @@
 # JSWeatherApp
-# Output:    https://salmanalibest.github.io/JSWeatherApp/.
+# Output:    
+https://salmanalibest.github.io/JSWeatherApp/.
