@@ -53,7 +53,7 @@ let finishUp = function () {
 
 let handleClick = () => {
   cityName = document.querySelector("input").value;
-  axios.get(`https://api.openweathermap.org/data/2.5/weather?q=${cityName}&units=metric&appid=7b368cf99ae63048f926ddadd7d53a4a`)
+  axios.get(`https://api.openweathermap.org/data/2.5/weather?q=${cityName}&units=metric&appid=4141571326d892394bc69acb3d636cf8`)
     .then(handleSuccess)
     .catch(handleError)
     .finally(finishUp)
